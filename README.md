@@ -22,6 +22,7 @@ This is a small React practice project where you can change the background color
 
 ## 📂 Folder Structure
 
+```
 ├── public/
 ├── src/
 │ ├── App.jsx
@@ -30,6 +31,7 @@ This is a small React practice project where you can change the background color
 ├── vite.config.js
 ├── tailwind.config.js
 └── package.json
+```
 
 ---
 
