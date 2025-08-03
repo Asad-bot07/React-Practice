@@ -47,5 +47,7 @@ npm install
 
 # Run the development server
 npm run dev
-
+```
 ---
+## 🧑‍💻 Author
+Made with 💻 by [Asad Hussain](https://linkedin.com/in/asad-hussain-765502319)
